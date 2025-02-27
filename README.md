@@ -39,7 +39,7 @@ Ensure you have the following installed and configured:
 ### 2. Authenticate with GCP
 Ensure you have a valid service account JSON key and authenticate:
 ```sh
-export GOOGLE_APPLICATION_CREDENTIALS="./sapient-zodiac-452102-u2-e885ee30e4f0.json"
+export GOOGLE_APPLICATION_CREDENTIALS="./path/tocredentials.json"
 gcloud auth activate-service-account --key-file=$GOOGLE_APPLICATION_CREDENTIALS
 ```
 
