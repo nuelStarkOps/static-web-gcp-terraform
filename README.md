@@ -15,7 +15,7 @@ This project automates the deployment of a static website on Google Cloud Platfo
 
 ## Architecture
 
-[](./cloud-architecture-static-web-gcp.webp)
+![Architecture Diagram](./cloud-architecture-static-web-gcp.webp)
 ---
 
 ## Prerequisites
